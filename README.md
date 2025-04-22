@@ -5,10 +5,11 @@ building, learning, and breaking things (ethically 😄).
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Blue Team](https://img.shields.io/badge/-Blue_Team-1E90FF?style=for-the-badge&logo=shield&logoColor=white)
 ![Malware Analysis](https://img.shields.io/badge/-Malware_Analysis-red?style=for-the-badge&logo=virustotal&logoColor=white)
 ![SOC](https://img.shields.io/badge/-SOC-blue?style=for-the-badge&logo=splunk&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
 
 ## ⚡ About Me
 
