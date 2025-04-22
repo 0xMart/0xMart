@@ -3,15 +3,13 @@
 💻 Passionate about cybersecurity with a strong interest in SOC operations, malware analysis, and cloud defense.  
 building, learning, and breaking things (ethically 😄).
 
----
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Malware Analysis](https://img.shields.io/badge/-Malware_Analysis-red?style=for-the-badge&logo=virustotal&logoColor=white)
 ![SOC](https://img.shields.io/badge/-SOC-blue?style=for-the-badge&logo=splunk&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
----
 ## ⚡ About Me
 
 - 🎓 Former Network & Security student with hands-on experience in EDR, SIEM, and reverse engineering
