@@ -21,3 +21,11 @@ building, learning, and breaking things (ethically 😄).
 | [Projet-AWS-terraform](https://github.com/0xMart/Projet-AWS-terraform) | Deploying AWS resources using Terraform (VPC, EC2, IAM...) |
 | [rootkit_de_0xMart](https://github.com/0xMart/rootkit_de_0xMart) | Educational Python rootkit project |
 | [Virus_de_0xMart](https://github.com/0xMart/Virus_de_0xMart)
+
+
+---
+
+## 📊 GitHub Stats
+
+![0xMart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xMart&show_icons=true&theme=radical&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMart&layout=compact&theme=radical)
