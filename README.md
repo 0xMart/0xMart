@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Martin — aka 0xMart
+# 👋 Hello, I'm 0xMart
 
 💻 Passionate about cybersecurity with a strong interest in SOC operations, malware analysis, and cloud defense.  
 building, learning, and breaking things (ethically 😄).
