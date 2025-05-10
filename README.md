@@ -3,12 +3,11 @@
 🚀 **Freelance System & Security Automation Specialist**  
 Passionate about automation, cybersecurity, and network optimization.
 
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Blue Team](https://img.shields.io/badge/-Blue_Team-1E90FF?style=for-the-badge&logo=shield&logoColor=white)
-![Malware Analysis](https://img.shields.io/badge/-Malware_Analysis-red?style=for-the-badge&logo=virustotal&logoColor=white)
-![SOC](https://img.shields.io/badge/-SOC-blue?style=for-the-badge&logo=splunk&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 
 ## ⚡ About Me
