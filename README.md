@@ -1,7 +1,7 @@
 # 👋 Hello, I'm 0xMart
 
-💻 Passionate about cybersecurity with a strong interest in SOC operations, malware analysis, and cloud defense.  
-building, learning, and breaking things (ethically 😄).
+🚀 **Freelance System & Security Automation Specialist**  
+Passionate about automation, cybersecurity, and network optimization.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -14,9 +14,9 @@ building, learning, and breaking things (ethically 😄).
 ## ⚡ About Me
 
 - 🎓 Former Network & Security student with hands-on experience in EDR, SIEM, and reverse engineering
-- 🛠️ I like to create tools in Python, automate boring stuff, and dive into blue team strategies
-- ☁️ Exploring cloud security with Terraform & AWS
-- 🔍 Always learning more about malware behavior and digital forensics
+- ⚙️ I create tools and scripts in Bash, PowerShell, and Python to optimize system administration.
+- 🌐 I deploy secure VPN solutions and automate server management tasks.
+- 📈 Always learning more about infrastructure security and automation.
 
 ---
 
@@ -28,6 +28,22 @@ building, learning, and breaking things (ethically 😄).
 | [rootkit_de_0xMart](https://github.com/0xMart/rootkit_de_0xMart) | Educational Python rootkit project |
 | [Virus_de_0xMart](https://github.com/0xMart/Virus_de_0xMart) |Educational Python Virus project |
 
+
+---
+
+## 🔹 **Technologies & Tools**
+
+- **Scripting:** Bash, PowerShell, Python
+- **Infrastructure:** Debian, VMware, Observium, PRTG
+- **Networking Basics**: Configuration of switches and routers with basic security (VLAN, ACL)
+- **Security:** SIEM (Rapid7), EDR (Cybereason), Hardening
+- **Cloud:** AWS, Terraform
+
+---
+
+## 🌐 **Get in Touch**
+- **Email**: malo.martin@nmap.fr  
+- **GitHub Pages Portfolio**: [martinsecu.github.io](https://martinsecu.github.io)  
 
 ---
 
