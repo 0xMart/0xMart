@@ -41,8 +41,7 @@ Passionate about automation, cybersecurity, and network optimization.
 ---
 
 ## 🌐 **Get in Touch**
-- **Email**: malo.martin@nmap.fr  
-- **GitHub Pages Portfolio**: [martinsecu.github.io](https://martinsecu.github.io)  
+- **Email**: malo.martin@nmap.fr    
 
 ---
 
