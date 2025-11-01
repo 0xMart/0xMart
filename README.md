@@ -12,9 +12,8 @@ Passionate about automation, cybersecurity, and network optimization.
 
 ## ⚡ About Me
 
-- 🎓 Former Network & Security student with hands-on experience in EDR, SIEM, and reverse engineering
+- 🎓 Former Network & Security student with experience in EDR, SIEM, and reverse engineering
 - ⚙️ I create tools and scripts in Bash, PowerShell, and Python to optimize system administration.
-- 🌐 I deploy secure VPN solutions and automate server management tasks.
 - 📈 Always learning more about infrastructure security and automation.
 
 ---
@@ -35,7 +34,7 @@ Passionate about automation, cybersecurity, and network optimization.
 - **Scripting:** Bash, PowerShell, Python
 - **Infrastructure:** Debian, VMware, Observium, PRTG
 - **Networking Basics**: Configuration of switches and routers with basic security (VLAN, ACL)
-- **Security:** SIEM (Rapid7), EDR (Cybereason), Hardening
+- **Security:** SIEM (Rapid7,Splunk), EDR (Cybereason), Hardening
 - **Cloud:** AWS, Terraform
 
 ---
