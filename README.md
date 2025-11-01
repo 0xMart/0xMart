@@ -41,11 +41,12 @@ Passionate about automation, cybersecurity, and network optimization.
 ---
 
 ## 🌐 **Get in Touch**
-- **Email**: malo.martin@nmap.fr    
+- **Email**: malomartin.contact@gmail.com    
 
 ---
 
 ## 📊 GitHub Stats
 
-![0xMart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xMart&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMart&layout=compact&theme=radical)
+![0xMart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xMart&show_icons=true&theme=radical&hide_title=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMart&layout=compact&theme=radical&cache_seconds=1800)
+
