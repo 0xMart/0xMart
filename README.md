@@ -1,6 +1,6 @@
 # 👋 Hello, I'm 0xMart
 
-🚀 **Freelance System & Security Automation Specialist**  
+🚀 **SOC Analyst | Passionate about cybersecurity, threat detection, and system automation**  
 Passionate about automation, cybersecurity, and network optimization.
 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
