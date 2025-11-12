@@ -18,6 +18,8 @@ Includes log collection, SIEM configuration (Splunk), EDR integration, and detec
 🧰 Tools: splunk, Cybereason, Python, VMware  
 📈 Objective: Practice incident detection, triage, and response workflows
 
+
+📂 **Repository:** [homelab-soc](https://github.com/0xMart/Homelab-SOC)
 ---
 
 ## 🔐 Key Projects
