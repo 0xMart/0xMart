@@ -27,6 +27,8 @@ Includes log collection, SIEM configuration (Splunk), EDR integration, and detec
 🧰 Tools: splunk, Cybereason, Python, VMware  
 📈 Objective: Practice incident detection, triage, and response workflows
 
+---
+
 ## 🔐 Key Projects
 
 | Project | Description |
