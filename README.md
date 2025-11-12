@@ -19,7 +19,7 @@ Includes log collection, SIEM configuration (Splunk), EDR integration, and detec
 📈 Objective: Practice incident detection, triage, and response workflows
 
 
-📂 **Repository:** [homelab-soc]([https://github.com/0xMart/Homelab-SOC])
+📂 **Repository:** [homelab-soc](https://github.com/0xMart/Homelab-SOC)
 ---
 
 ## 🔐 Key Projects
