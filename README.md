@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Malo Martin (aka 0xMart)
 
-🚀 **SOC Analyst | Passionate about cybersecurity, threat detection, and system automation**  
+🚀 **SOC & Cybersecurity Enthusiast | Focused on Threat Detection, Automation & Network Security**  
 Passionate about automation, cybersecurity, and network optimization.
 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -12,9 +12,11 @@ Passionate about automation, cybersecurity, and network optimization.
 
 ## ⚡ About Me
 
-- 🎓 Former Network & Security student with experience in EDR, SIEM, and reverse engineering
-- ⚙️ I create tools and scripts in Bash, PowerShell, and Python to optimize system administration.
-- 📈 Always learning more about infrastructure security and automation.
+- 🎓 Recent graduate in Cybersecurity and Network Engineering (Master’s degree, 2024)
+- 🧠 Hands-on experience with SIEM (Rapid7) and EDR (Cybereason) during my work-study
+- 💻 I enjoy creating tools and scripts in Bash, PowerShell, and Python to automate tasks
+- 🚀 Currently building my **HomeLab SOC project** focused on detection and response simulation
+- 📚 Always learning more about security, automation, and infrastructure monitoring
 
 ---
 
