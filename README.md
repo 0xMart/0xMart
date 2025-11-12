@@ -9,15 +9,6 @@ Passionate about automation, cybersecurity, and network optimization.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/-Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-
-## ⚡ About Me
-
-- 🎓 Recent graduate in Cybersecurity and Network Engineering (Master’s degree, 2024)
-- 🧠 Hands-on experience with SIEM (Rapid7) and EDR (Cybereason) during my work-study
-- 💻 I enjoy creating tools and scripts in Bash, PowerShell, and Python to automate tasks
-- 🚀 Currently building my **HomeLab SOC project** focused on detection and response simulation
-- 📚 Always learning more about security, automation, and infrastructure monitoring
-
 ---
 
 ## 🧩 Highlighted Project
@@ -48,6 +39,14 @@ Includes log collection, SIEM configuration (Splunk), EDR integration, and detec
 - **Security:** SIEM (Rapid7,Splunk), EDR (Cybereason), Hardening
 - **Cloud:** AWS, Terraform
 
+---
+## ⚡ About Me
+
+- 🎓 Recent graduate in Cybersecurity and Network Engineering (Master’s degree, 2024)
+- 🧠 Hands-on experience with SIEM (Rapid7) and EDR (Cybereason) during my work-study
+- 💻 I enjoy creating tools and scripts in Bash, PowerShell, and Python to automate tasks
+- 🚀 Currently building my **HomeLab SOC project** focused on detection and response simulation
+- 📚 Always learning more about security, automation, and infrastructure monitoring
 ---
 
 ## 🌐 **Get in Touch**
