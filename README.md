@@ -1,4 +1,4 @@
-# 👋 Hello, I'm 0xMart
+# 👋 Hello, I'm Malo Martin (aka 0xMart)
 
 🚀 **SOC Analyst | Passionate about cybersecurity, threat detection, and system automation**  
 Passionate about automation, cybersecurity, and network optimization.
