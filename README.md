@@ -45,7 +45,7 @@ Includes log collection, SIEM configuration (Splunk), EDR integration, and detec
 ## ⚡ About Me
 
 - 🎓 Recent graduate in Cybersecurity and Network Engineering (Master’s degree, 2024)
-- 🧠 Hands-on experience with SIEM (Rapid7) and EDR (Cybereason) during my work-study
+- 🧠 Hands-on experience with SIEM and EDR during my work-study
 - 💻 I enjoy creating tools and scripts in Bash, PowerShell, and Python to automate tasks
 - 🚀 Currently building my **HomeLab SOC project** focused on detection and response simulation
 - 📚 Always learning more about security, automation, and infrastructure monitoring
