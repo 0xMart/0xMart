@@ -12,14 +12,7 @@ Passionate about automation, cybersecurity, and network optimization.
 ---
 
 ## 🧩 Highlighted Project
-### 🏠 HomeLab SOC
-A personal lab environment built to simulate real-world SOC operations.  
-Includes log collection, SIEM configuration (Splunk), EDR integration, and detection use cases.  
-🧰 Tools: splunk, Cybereason, Python, VMware  
-📈 Objective: Practice incident detection, triage, and response workflows
 
-
-📂 **Repository:** [homelab-soc](https://github.com/0xMart/Homelab-SOC) WIP
 ---
 
 ## 🔐 Key Projects
