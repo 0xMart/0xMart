@@ -26,7 +26,7 @@ Mostly interested in Linux, infrastructure, automation and security operations.
 ## Tools & Topics
 
 - Linux & Windows administration  
-- Networking basics (VLAN, ACL, routing)  
+- Networking (VLAN, ACL, routing)  
 - Automation with Bash / PowerShell / Python  
 - SIEM & EDR exposure (Rapid7, Splunk, Cybereason)  
 - Hardening and infrastructure security  
