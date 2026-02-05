@@ -43,5 +43,6 @@ Mostly interested in Linux, infrastructure, automation and security operations.
 
 ## Contact
 
-Bluesky: @mart.nmap.fr
+Bluesky: @mart.nmap.fr <br>
 Email: malomartin.contact@gmail.com
+
