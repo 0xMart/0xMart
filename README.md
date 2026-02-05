@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Malo Martin (aka 0xMart)
 
-🚀 **SOC & Cybersecurity Enthusiast | Focused on Threat Detection, Automation & Network Security**  
-Passionate about automation, cybersecurity, and network optimization.
+Cybersecurity & infrastructure enthusiast, focused on systems, networking, automation and security operations.
 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -11,41 +10,38 @@ Passionate about automation, cybersecurity, and network optimization.
 
 ---
 
-## 🧩 Highlighted Project
-
----
-
 ## 🔐 Key Projects
 
 | Project | Description |
 |--------|-------------|
 | [Projet-AWS-terraform](https://github.com/0xMart/Projet-AWS-terraform) | Deploying AWS resources using Terraform (VPC, EC2, IAM...) |
-| [rootkit_de_0xMart](https://github.com/0xMart/rootkit_de_0xMart) | Educational Python rootkit project |
-| [Virus_de_0xMart](https://github.com/0xMart/Virus_de_0xMart) |Educational Python Virus project |
+| [rootkit_de_0xMart](https://github.com/0xMart/rootkit_de_0xMart) | Educational Python project |
+| [Virus_de_0xMart](https://github.com/0xMart/Virus_de_0xMart) | Educational Python project |
 
+---
+
+## 🔹 Technologies & Tools
+
+- **Scripting:** Bash, PowerShell, Python  
+- **Infrastructure:** Debian, VMware, Observium, PRTG  
+- **Networking:** VLANs, ACLs, basic router/switch configuration  
+- **Security:** SIEM (Rapid7, Splunk), EDR (Cybereason), Hardening  
+- **Cloud:** AWS, Terraform  
 
 ---
 
-## 🔹 **Technologies & Tools**
-
-- **Scripting:** Bash, PowerShell, Python
-- **Infrastructure:** Debian, VMware, Observium, PRTG
-- **Networking Basics**: Configuration of switches and routers with basic security (VLAN, ACL)
-- **Security:** SIEM (Rapid7,Splunk), EDR (Cybereason), Hardening
-- **Cloud:** AWS, Terraform
-
----
 ## ⚡ About Me
 
-- 🎓 Recent graduate in Cybersecurity and Network Engineering (Master’s degree, 2024)
+- 🎓 Master's degree in Cybersecurity & Network Engineering (2024)
 - 🧠 Hands-on experience with SIEM and EDR during my work-study
-- 💻 I enjoy creating tools and scripts in Bash, PowerShell, and Python to automate tasks
-- 🚀 Currently building my **HomeLab SOC project** focused on detection and response simulation
-- 📚 Always learning more about security, automation, and infrastructure monitoring
+- 💻 Interested in automation and infrastructure security
+- 📚 Currently focusing on Linux, networking, and practical cybersecurity
+
 ---
 
-## 🌐 **Get in Touch**
-- **Email**: malomartin.contact@gmail.com    
+## 🌐 Get in Touch
+
+- **Email:** malomartin.contact@gmail.com
 
 ---
 
@@ -53,4 +49,3 @@ Passionate about automation, cybersecurity, and network optimization.
 
 ![0xMart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xMart&show_icons=true&theme=radical&hide_title=true&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMart&layout=compact&theme=radical&cache_seconds=1800)
-
