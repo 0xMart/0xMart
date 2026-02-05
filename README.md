@@ -1,6 +1,8 @@
-# 👋 Hello, I'm Malo Martin (aka 0xMart)
+# Malo Martin (0xMart)
 
-Cybersecurity & infrastructure enthusiast, focused on systems, networking, automation and security operations.
+Cybersecurity, systems and networking.
+
+Mostly interested in Linux, infrastructure, automation and security operations.
 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -10,42 +12,35 @@ Cybersecurity & infrastructure enthusiast, focused on systems, networking, autom
 
 ---
 
-## 🔐 Key Projects
+## Projects
 
-| Project | Description |
-|--------|-------------|
-| [Projet-AWS-terraform](https://github.com/0xMart/Projet-AWS-terraform) | Deploying AWS resources using Terraform (VPC, EC2, IAM...) |
-| [rootkit_de_0xMart](https://github.com/0xMart/rootkit_de_0xMart) | Educational Python project |
-| [Virus_de_0xMart](https://github.com/0xMart/Virus_de_0xMart) | Educational Python project |
+- **AWS / Terraform lab**  
+  https://github.com/0xMart/Projet-AWS-terraform
 
----
-
-## 🔹 Technologies & Tools
-
-- **Scripting:** Bash, PowerShell, Python  
-- **Infrastructure:** Debian, VMware, Observium, PRTG  
-- **Networking:** VLANs, ACLs, basic router/switch configuration  
-- **Security:** SIEM (Rapid7, Splunk), EDR (Cybereason), Hardening  
-- **Cloud:** AWS, Terraform  
+- **Python security projects (educational)**  
+  https://github.com/0xMart/rootkit_de_0xMart  
+  https://github.com/0xMart/Virus_de_0xMart
 
 ---
 
-## ⚡ About Me
+## Tools & Topics
 
-- 🎓 Master's degree in Cybersecurity & Network Engineering (2024)
-- 🧠 Hands-on experience with SIEM and EDR during my work-study
-- 💻 Interested in automation and infrastructure security
-- 📚 Currently focusing on Linux, networking, and practical cybersecurity
-
----
-
-## 🌐 Get in Touch
-
-- **Email:** malomartin.contact@gmail.com
+- Linux & Windows administration  
+- Networking basics (VLAN, ACL, routing)  
+- Automation with Bash / PowerShell / Python  
+- SIEM & EDR exposure (Rapid7, Splunk, Cybereason)  
+- Hardening and infrastructure security  
 
 ---
 
-## 📊 GitHub Stats
+## About
 
-![0xMart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xMart&show_icons=true&theme=radical&hide_title=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMart&layout=compact&theme=radical&cache_seconds=1800)
+- Master's degree in Cybersecurity & Network Engineering (2024)
+- Work-study experience in cybersecurity operations
+- Currently focusing on practical infrastructure security
+
+---
+
+## Contact
+
+Email: malomartin.contact@gmail.com
